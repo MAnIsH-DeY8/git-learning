@@ -1,0 +1,1 @@
+Cloud computing is the on-demand delivery of IT resources (servers, storage, databases, networking, software) over the internet with pay-as-you-go pricing. It allows individuals and businesses to rent access to these resources from a provider, eliminating the need to own and maintain physical data centers
